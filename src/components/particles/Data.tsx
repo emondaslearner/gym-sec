@@ -220,10 +220,10 @@ export const FooterTexts = {
         name: "11567 Santa Monica Blvd, Los Angeles, CA 90025, United States",
       },
       {
-        name: "gym_next@example.com",
+        name: "emondasprivate@gmail.com",
       },
       {
-        name: "+1 424-248-8496",
+        name: "+8801680964784",
       },
     ],
   },
