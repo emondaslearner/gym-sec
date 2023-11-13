@@ -29,7 +29,7 @@ const Footer = () => {
                             <Barbell size={35} color="currentColor" weight="fill" />
                         </Text>
                         <Text as="span" className="text-white">Gym</Text>
-                        <Text as="span" className="bg-gradient-to-r from-amber-500 to-red-500 bg-clip-text text-transparent">Nex</Text>
+                        {/* <Text as="span" className="bg-gradient-to-r from-amber-500 to-red-500 bg-clip-text text-transparent">Nex</Text> */}
                     </Link>
                     <Text as="p" className="text-zinc-400 text-justify">{FooterTexts.underLogoText}</Text>
                 </div>
